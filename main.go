@@ -569,6 +569,8 @@ func main() {
 					channelET <- v
 				}
 			}
+			// wgEnd.Wait() //此Bug勿动
+			Exit()
 		} else {
 			go EXP(IP, Port, PageType, "ETnull")
 			// fmt.Println(IP, Port, PayloadForTitle, PayloadForMain)
