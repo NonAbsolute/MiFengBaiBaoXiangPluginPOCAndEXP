@@ -14,7 +14,7 @@
 
 ### 下载漏洞复现环境：
 
-链接: [https://pan.baidu.com/s/18hzH8EPmKKmVlCw1vmCtgg](https://pan.baidu.com/s/18hzH8EPmKKmVlCw1vmCtgg) 提取码: 498j 
+链接: [https://pan.baidu.com/s/1Oh_FX12UGpqrH0_ydoBNUA](https://pan.baidu.com/s/1Oh_FX12UGpqrH0_ydoBNUA) 提取码: wwi7 
 
 注意⚠️，请勿恶意篡改代码将本EXP运行在测试环境以外的地方；否则后果自负！
 
